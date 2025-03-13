@@ -8,8 +8,8 @@
 </br>
 
 <div style="display: flex;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinirochadev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=35&hide=issues&title_color=24ABF2&text_color=FFFF&border_radius=3&border_color=FFFF&rank_icon=github&icon_color=24ABF2&theme=dark" alt= "Github Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinirochadev&card_width=1&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFF&hide=html,css&text_color=FFFF&border_radius=3&border_color=FFFF&count_private=true&theme=dark" alt="Most Used Lang" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinirochadev&bg_color=0d1117&hide_border=true&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=35&hide=issues&title_color=24ABF2&text_color=FFFF&border_radius=3&border_color=FFFF&rank_icon=github&icon_color=24ABF2&theme=dark" alt= "Github Stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinirochadev&bg_color=0d1117&hide_border=true&card_width=1&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFF&hide=html,css&text_color=FFFF&border_radius=3&border_color=FFFF&count_private=true&theme=dark" alt="Most Used Lang" />
 </div>
 
 <h3> Principais Tecnologias</h3>
