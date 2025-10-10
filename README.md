@@ -2,7 +2,7 @@
 ### `Aspirante a Desenvolvedor`
 
 <div style="display: flex">
-👨🏽‍💻 Estudante, Futuro Desenvolvedov Back-end e Apaixonado por Tecnologia</br>
+👨🏽‍💻 Estudante, Futuro Desenvolvedor Back-end e Apaixonado por Tecnologia</br>
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Santo Amaro.
 </div>
 </br>
