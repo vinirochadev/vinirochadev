@@ -29,5 +29,5 @@
   </picture>
   
   <h3>Conecte-se comigo!</h3>
-    <a href = "mailto:vrocha.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vrocha.tech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/vinicius-rocha-397579255"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
