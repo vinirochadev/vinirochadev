@@ -24,8 +24,8 @@
 
   <picture height="100em" align="right">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinirochadev/vinirochadev/output/github-contribution-grid-snake-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinirochadev/vinirochadev/output/github-contribution-grid-snake-dark.gif">
-    <img height="140em" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinirochadev/vinirochadev/output/github-contribution-grid-snake.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinirochadev/vinirochadev/output/github-contribution-grid-snake-dark.svg">
+    <img height="140em" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinirochadev/vinirochadev/output/github-contribution-grid-snake.svg">
   </picture>
   
   <h3>Conecte-se comigo!</h3>
